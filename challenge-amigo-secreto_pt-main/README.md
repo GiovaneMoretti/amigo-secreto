@@ -1,16 +1,16 @@
-<h1 aling="center">Projeto amigo secreto</h1>     
+<h1 align="center">Projeto Amigo Secreto</h1>
 
-# Resumo do projeto
-- A ideia do projeto Amigo Secreto é como o próprio nome já diz, realizar o sorteio aleatório de uma pessoa da qual o nome foi incluído no programa.
+## 📌 Resumo do Projeto
+O **Amigo Secreto** é um programa que realiza o sorteio aleatório de um nome a partir de uma lista fornecida pelo usuário.
 
-## 🔨 Funcionalidades do projeto
+## 🔨 Funcionalidades do Projeto
 
-- `Funcionalidade 1` Se não for incluido um nome na caixa o programa ira detectar e exibir um alerta para que seja incluso um nome válido.
-- `Funcionalidade 2` Ao adicionar um nome e clicar no botão "Adicionar" o nome adicionado será exibido logo abaixo mostrando que ele foi adicionado com sucesso.
-- `Funcionalidade 3` Após todos os nomes serem adicionados corretamente, o botão "sortear amigo" ira escolher de forma aletoria um nome e mostar na tela o nome escolhido pelo programa
+- ✅ **Validação de entrada**: Se o usuário tentar adicionar um nome vazio, um alerta será exibido solicitando um nome válido.  
+- ✅ **Lista dinâmica**: Os nomes adicionados são exibidos automaticamente abaixo do campo de entrada.  
+- ✅ **Sorteio aleatório**: Ao clicar no botão "Sortear amigo", o programa seleciona um nome aleatório e o exibe na tela.  
 
-## ✔️ Técnicas e tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- ``HTML``
-- ``CSS``
-- ``Java Script``
+- 🏗 **HTML**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
