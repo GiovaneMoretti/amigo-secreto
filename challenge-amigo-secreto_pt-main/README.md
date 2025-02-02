@@ -1,7 +1,7 @@
 <h1 aling="center">Projeto amigo secreto</h1>     
 
 # Resumo do projeto
-    A ideia do projeto Amigo Secreto é como o próprio nome já diz, realizar o sorteio aleatório de uma pessoa da qual o nome foi incluído no programa.
+- A ideia do projeto Amigo Secreto é como o próprio nome já diz, realizar o sorteio aleatório de uma pessoa da qual o nome foi incluído no programa.
 
 ## 🔨 Funcionalidades do projeto
 
